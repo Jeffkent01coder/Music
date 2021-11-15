@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Jeff\'s Music</string>
+    <string name="hi_jeff">Hi , Jeff</string>
+    <string name="continue_listening">Continue Listening</string>
+    <string name="favorite">Favorite</string>
+    <string name="all_songs">All Songs</string>
+    <string name="recent">Recent</string>
+    <string name="hope">Hope</string>
+    <string name="xxx_tentacion">XXX tentacion</string>
+</resources>
